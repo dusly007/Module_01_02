@@ -18,3 +18,4 @@ public class ZoneInterdite : MonoBehaviour
         Debug.Log("Zone interdite : retour au point de départ.");
     }
 }
+
